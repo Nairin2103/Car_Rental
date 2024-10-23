@@ -8,19 +8,11 @@
 
 <header>
 	<div class="container">
-		<nav class="py-md-5 py-3 d-lg-flex">
+		<nav class="py-md-5 py-3 d-flex justify-content-center">
 			<div id="logo" class="grow-div">
-				<h1 class="mt-md-0 mt-2"> <a href="Home.aspx"><span class="fa fa-automobile"></span> Car Rental </a></h1>
+				<h1 class="mt-md-0 mt-2 "> <a class="fs-1"> Car Rental </a></h1>
 			</div>
-			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
-			<input type="checkbox" id="drop" />
-			<ul class="menu ml-auto mt-1">
-				<li class="grow-div"> </li>
-				<li class="grow-div"> </li>
-				<li class="grow-div"> </li>
-				<li class="grow-div"> </li>
-				<li class="grow-div"> </li>
-			</ul>
+	
 		</nav>
 	</div>
 </header>
